@@ -1,0 +1,19 @@
+.home:hover{
+    background-color: rgb(7, 1, 1);
+}
+.project:hover{
+    background-color: rgb(7, 1, 1);
+}
+.pages:hover{
+    background-color: rgb(7, 1, 1);
+}
+.contact:hover{
+    background-color: rgb(7, 1, 1);
+}
+
+.mycard:hover{
+    transform: scale(1.1);
+}
+.mycard{
+    transition: 0.5s;
+}
